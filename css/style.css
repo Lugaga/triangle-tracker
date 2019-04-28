@@ -3,7 +3,12 @@ h1 {
     color: #ffffff;
     margin-top: 7%;
 }
-
+p{
+    text-align: center;
+}
+ol{
+    margin-left: 25%;
+}
 #a {
     font-size: 25px;
 }
@@ -52,15 +57,9 @@ body {
     text-align: center;
 }
 
-.hapa {
-    background-color: rgb(42, 165, 79);
-    border-radius: 5px;
-}
-
-
 a:hover {
     background-color: orange;
-    border-radius: 10px;
+    border-radius: 3px;
     color: black;
     font-weight: bolder;
 
@@ -117,6 +116,12 @@ html {
     #c {
         font-size: 20px;
     }
+    ol{
+        margin-left: -5px;
+    }
+    h1{
+        margin-left: 0;
+    }
 }
 
 
@@ -172,5 +177,5 @@ html {
 
 .active-yangu>a {
     background-color: rgba(255, 174, 0, 0.966);
-    border-radius: 10%;
+    border-radius: 3px;
 }
