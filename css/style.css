@@ -7,11 +7,27 @@ h1 {
 #a {
     font-size: 25px;
 }
+
 #b {
     font-size: 25px;
 }
+
 #c {
     font-size: 25px;
+}
+
+#reset-button {
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+#submit-button {
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+#output{
+    color:#000000;
 }
 
 #cover {
@@ -88,9 +104,11 @@ html {
     #a {
         font-size: 20px;
     }
+
     #b {
         font-size: 20px;
     }
+
     #c {
         font-size: 20px;
     }
@@ -119,38 +137,38 @@ lugaga {
 
 
 
-    .fa-facebook-f {
-        color: #3b5998;
-    }
+.fa-facebook-f {
+    color: #3b5998;
+}
 
-    .fa-twitter {
-        color: #00acee;
-    }
+.fa-twitter {
+    color: #00acee;
+}
 
-    .fa-github {
-        color: #FFFFFF;
-    }
+.fa-github {
+    color: #FFFFFF;
+}
 
-    footer {
+footer {
 
-        bottom: 0;
-        text-align: center;
-        background-color: teal;
-        color: gold;
-    }
+    bottom: 0;
+    text-align: center;
+    background-color: teal;
+    color: gold;
+}
 
-    body,
-    html {
-        overflow-x: hidden;
+body,
+html {
+    overflow-x: hidden;
 
-    }
+}
 
-    .mimi img {
-        float: left;
-    }
+.mimi img {
+    float: left;
+}
 
 
-    .active-yangu>a {
-        background-color: rgba(255, 174, 0, 0.966);
-        border-radius: 10%;
-    }
+.active-yangu>a {
+    background-color: rgba(255, 174, 0, 0.966);
+    border-radius: 10%;
+}
