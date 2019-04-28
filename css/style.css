@@ -26,8 +26,8 @@ h1 {
     font-weight: bolder;
 }
 
-#output{
-    color:#000000;
+#output {
+    color: #000000;
 }
 
 #cover {
@@ -49,9 +49,6 @@ body {
     border-radius: 5px;
 }
 
-#boomz {
-    flex-wrap: wrap;
-}
 
 a:hover {
     background-color: orange;
@@ -129,13 +126,16 @@ body {
     color: black;
 }
 
-lugaga {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
+.footer {
+
+    text-align: center;
+    background-color: black;
+    color: gold;
+    position: relative;
+    bottom: -100px;
+    width: 100%;
+    height: 60px;
 }
-
-
 
 .fa-facebook-f {
     color: #3b5998;
@@ -149,13 +149,7 @@ lugaga {
     color: #FFFFFF;
 }
 
-footer {
 
-    bottom: 0;
-    text-align: center;
-    background-color: teal;
-    color: gold;
-}
 
 body,
 html {
