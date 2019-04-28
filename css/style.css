@@ -1,0 +1,144 @@
+h1 {
+    text-align: center;
+    color: #ffffff;
+    margin-top: 7%;
+}
+
+#a {
+    font-size: 25px;
+}
+
+#cover {
+    margin-top: 2%;
+    font-size: 30px;
+    color: #000000;
+}
+
+body {
+    background-color: orange;
+}
+
+.try-form {
+    text-align: center;
+}
+
+.hapa {
+    background-color: rgb(42, 165, 79);
+    border-radius: 5px;
+}
+
+#boomz {
+    flex-wrap: wrap;
+}
+
+a:hover {
+    background-color: orange;
+    border-radius: 10px;
+    color: black;
+    font-weight: bolder;
+
+}
+
+html,
+body,
+header,
+.carousel {
+    height: 100%;
+}
+
+
+.carousel,
+.carousel .carousel-inner,
+.carousel .carousel-inner .active,
+.carousel .carousel-inner .carousel-item,
+.view,
+body,
+html {
+    height: 100%
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, .2)
+}
+
+.page-footer,
+.top-nav-collapse {
+    background-color: #1C2331;
+}
+
+@media only screen and (max-width:768px) {
+    body {
+        background-color: teal;
+    }
+
+    h1 {
+        margin-top: 30%;
+    }
+
+    .nav-brand {
+        font-size: 50px;
+    }
+
+    #a {
+        font-size: 20px;
+    }
+}
+
+
+body {
+    font-family: 'VT323', monospace;
+    font-size: 25px;
+}
+
+.futa {
+    background-color: black;
+}
+
+#mine {
+    background-color: black;
+    color: black;
+}
+
+lugaga {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+
+    .fa-facebook-f {
+        color: #3b5998;
+    }
+
+    .fa-twitter {
+        color: #00acee;
+    }
+
+    .fa-github {
+        color: #FFFFFF;
+    }
+
+    footer {
+
+        bottom: 0;
+        text-align: center;
+        background-color: teal;
+        color: gold;
+    }
+
+    body,
+    html {
+        overflow-x: hidden;
+
+    }
+
+    .mimi img {
+        float: left;
+    }
+
+
+    .active-yangu>a {
+        background-color: rgba(255, 174, 0, 0.966);
+        border-radius: 10%;
+    }
