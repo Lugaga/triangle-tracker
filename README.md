@@ -1,6 +1,6 @@
 # Project Name
 
-    Triagle Tracker
+    Triangle Tracker
 
 ## Project Description
 
