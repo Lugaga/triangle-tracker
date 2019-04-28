@@ -16,6 +16,14 @@ h1 {
     font-size: 25px;
 }
 
+#reset-button:hover{
+    color:orange;
+}
+
+#submit-button:hover{
+    color:orange;
+}
+
 #reset-button {
     font-size: 15px;
     font-weight: bolder;
